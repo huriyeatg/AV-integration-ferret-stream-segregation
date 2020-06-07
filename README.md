@@ -5,5 +5,7 @@ This code includes few analysis from the published work Atilgan et al., Neuron 2
  
 See "master_AVintegration_streamSegregation.m" code for details and for more details or request for data, please contact Huriye Atilgan via huriye.atilgan@gmail.com
 
-H, Atilgan 
+
+H, Atilgan
+
 Jun 2020, Bizley Lab - UCL, London,UK
